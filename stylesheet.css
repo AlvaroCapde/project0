@@ -1,0 +1,17 @@
+body {
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#top{
+    text-align: center;
+    font-size: 35px;
+    color: cadetblue;
+
+}
+#Titulo {
+    font-size: 50px;
+    text-align: center;
+    color: aquamarine;
+    font-weight: bold;
+}
