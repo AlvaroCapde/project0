@@ -7,11 +7,66 @@ body {
     text-align: center;
     font-size: 35px;
     color: cadetblue;
-
 }
-#Titulo {
+.Titulo {
     font-size: 50px;
     text-align: center;
-    color: aquamarine;
+    color: salmon;
     font-weight: bold;
 }
+#shoe_index{
+    margin: 25px;
+}
+ol li{
+    padding-top: 10px;
+    text-align-last: left;
+    font-size: 40px;
+    color: salmon;
+}
+
+#vote{
+    text-align: center;
+    font-size: 35px;
+    color: cadetblue;
+}
+
+#customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #customers tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #customers tr:hover {background-color: #ddd;}
+  
+  #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+  }
+  @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+  .shoe_compared{
+    font-size: 30px;
+    color: steelblue;
+    text-align: end;
+    padding: 30px;
+  }
+  .shoe_cost{
+    font-size: 30px;
+    color: seagreen;
+    text-align: start;
+    padding: 30px;
+  }
