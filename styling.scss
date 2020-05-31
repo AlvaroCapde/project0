@@ -1,0 +1,30 @@
+$primary-color:salmon;
+$size:30px;
+%message {
+  font-weight: bold;
+}
+div {
+
+  .shoe_compared{
+    font-size: $size;
+    color: steelblue;
+    text-align: end;
+    padding: $size;
+    @extend %message;
+  }
+  .shoe_cost{
+    font-size: $size;
+    color: seagreen;
+    text-align: start;
+    padding: $size;
+  }
+  .Titulo {
+    font-size: 50px;
+    text-align: center;
+    color:$primary-color;
+    font-weight: bold;
+}
+}
+
+
+

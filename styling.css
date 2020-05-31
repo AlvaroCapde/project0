@@ -1,0 +1,25 @@
+div .shoe_compared {
+  font-weight: bold;
+}
+
+div .shoe_compared {
+  font-size: 30px;
+  color: steelblue;
+  text-align: end;
+  padding: 30px;
+}
+
+div .shoe_cost {
+  font-size: 30px;
+  color: seagreen;
+  text-align: start;
+  padding: 30px;
+}
+
+div .Titulo {
+  font-size: 50px;
+  text-align: center;
+  color: salmon;
+  font-weight: bold;
+}
+/*# sourceMappingURL=styling.css.map */
